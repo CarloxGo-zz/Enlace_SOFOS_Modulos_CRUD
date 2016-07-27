@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+<table>
+			<thead>
+				<tr>
+					<th>Nº Solicitud</th><th>F.Solicitud</th><th>F.Preventa</th><th>F.Actividad</th>
+					<th>F.Asignaci&oacute;</th><th>Vendedor</th><th>Actividad</th><th>Ejecutivo</th>
+					<th>Apoyo</th><th>Pa&iacute;s</th><th>Cliente</th><th>Tipo</th><th>Estatus</th>
+					<th>Asignar</th><th>Descripci&oacute;n</th>
+				</tr>
+			</thead><tbody>
+
+
+
+<tr>
+											<td>129</td>
+											<td>2015-06-02</td>
+											<td>0000-00-00</td>
+											<td>0000-00-00</td>
+											<td>0000-00-00</td>
+											<td>Maria</td>
+											<td>Todo bien</td>
+											<td>Carlos</td>
+											<td></td>
+											<td>Venezuela</td>
+											<td>Nestlé</td>
+											<td>Remoto</td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr><tr>
+											<td>135</td>
+											<td>2015-06-03</td>
+											<td>0000-00-00</td>
+											<td>0000-00-00</td>
+											<td>0000-00-00</td>
+											<td>juan perez</td>
+											<td>Todo bien</td>
+											<td>Carlox</td>
+											<td></td>
+											<td>Venezuela</td>
+											<td>SAAS</td>
+											<td>Remoto</td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr><tr>
+											<td>128</td>
+											<td>2015-06-06</td>
+											<td>0000-00-00</td>
+											<td>0000-00-00</td>
+											<td>0000-00-00</td>
+											<td>juan perez</td>
+											<td>czccadc</td>
+											<td>Pedro</td>
+											<td></td>
+											<td>Colombia</td>
+											<td>Farmatodo</td>
+											<td>Presencial</td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr><tr>
+											<td>137</td>
+											<td>2015-06-06</td>
+											<td>0000-00-00</td>
+											<td>2015-06-06</td>
+											<td>0000-00-00</td>
+											<td>juan perez</td>
+											<td>vasfbvadvda</td>
+											<td>Carlos</td>
+											<td></td>
+											<td>Venezuela</td>
+											<td>Farmatodo</td>
+											<td>Presencial</td>
+											<td></td>
+											<td></td>
+											<td></td>
+										</tr></tbody></table></body></html>
